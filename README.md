@@ -1,6 +1,4 @@
-# Files
-
-lazy solution to host my files in a central location.
+Lazy solution to host my files in a central location.
 
 ## Entries
 
